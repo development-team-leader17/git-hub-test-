@@ -1,3 +1,4 @@
 def solve(n):
     return n * n * n
-print(solve(2))
+n = int(input("Enter the number"))
+print(solve(n))
